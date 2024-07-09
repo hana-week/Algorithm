@@ -1,0 +1,2 @@
+amazing=input()
+print(amazing+"??!")
